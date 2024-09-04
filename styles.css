@@ -5,6 +5,12 @@
     font-family: sans-serif;
 }
 
+body {
+    background: linear-gradient(rgba(169, 170, 170, 0.864), white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 .container {
     background-color: #1F2937;
     color: white;
