@@ -2,5 +2,27 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    outline: 1px solid red;
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: #1F2937;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    padding: 10px;
+}
+
+a {
+    color: inherit
 }
