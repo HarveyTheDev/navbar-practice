@@ -30,10 +30,12 @@ nav ul {
     list-style: none;
     margin-right: 20px;
     color: #e5e7ebb9;
+    flex-wrap: wrap;
 }
 
 #nav-title {
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 a {
@@ -43,5 +45,5 @@ a {
 }
 
 a:hover {
-    color: orangered;
+    color: orange;
 }
